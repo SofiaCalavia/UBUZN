@@ -1,0 +1,1 @@
+#Esta es la función para ver las peliculas y series.
