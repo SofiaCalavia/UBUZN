@@ -1,0 +1,1 @@
+#Sirve para creear los resumenes de cada partido y poder verlos.
