@@ -1,0 +1,1 @@
+#Opción fucional cualquier s.o
